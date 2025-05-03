@@ -1,4 +1,3 @@
-````markdown
 # 🚀 Desafio Full Cycle: Docker com Go! 🐳💻
 
 Este repositório contém o resultado do **Desafio Full Cycle - Docker com Go (Golang)**.  
